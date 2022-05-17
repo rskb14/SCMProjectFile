@@ -1,0 +1,66 @@
+body  
+{  
+    margin: 0;  
+    padding: 0;    
+    font-family: 'Arial';
+    background-image:url("image16.jpg");
+    background-repeat: no-repeat; 
+    background-size: 1360px 660px;  
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        margin: auto;  
+        margin: 20 0 0 450px;  
+        padding: 80px;
+        background-color: rgba(255, 255, 255, .15);  
+        backdrop-filter: blur(10px);    
+        border-radius: 15px ;
+          
+}  
+h2{  
+    text-align: center;  
+    color:white; 
+    padding:20px;  
+}  
+label{  
+    color:white; 
+    font-size: 17px;  
+}  
+#Uname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}
+#Pass1{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+      
+}   
+#log{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;  
+  
+  
+}  
+span{  
+    color:white;  
+    font-size: 17px;  
+}  

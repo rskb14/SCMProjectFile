@@ -1,0 +1,17 @@
+* {
+    box-sizing: border-box;
+  }
+   
+  html,
+  body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    background-image:Group 1.png;
+    font-family: 'Roboto', sans-serif;
+  }body{
+    background: url(istockphoto-1278745986-170667a.jpg); 
+    background-repeat: no-repeat; 
+    background-size: 1350px; 
+  
+  }

@@ -1,0 +1,35 @@
+#button{ 
+    width: 200px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;
+  }
+  
+  #flex{
+    height: 300px;
+    width:300px;
+    background-color:white;
+    display:flex;
+    box-shadow: 40px;
+    justify-content: space-between;
+    box-shadow: 2px 2px 6px 0px  rgba(0,0,0,0.3);
+}
+#flex1{
+  height: 250px;
+  width:250px;
+  background-color:red;
+  display:flex;
+  box-shadow: 10px;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+body{
+  background-image: url(Group\ 1.png);
+  background-size: 1440px 900px;
+}
+#container{
+  display:flex;
+  justify-content:space-between;
+}

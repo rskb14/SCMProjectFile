@@ -1,0 +1,49 @@
+body{
+  background: url(istockphoto-1278745986-170667a.jpg); 
+  background-repeat: no-repeat; 
+  background-size: 1360px 660px; 
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  li{
+    color:white;
+  }
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color:black;
+  }
+  table.center {
+    margin-left: auto; 
+    margin-right: auto;
+  }
+  td{
+    color:white
+  }
+  #log{  
+    width: 200px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: blue;
+  }
+#policies{
+  font-display:red;
+  
+}
